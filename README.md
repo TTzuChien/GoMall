@@ -1,1 +1,1 @@
-GOMall
+GoMall
